@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Windows 11 Taskbar Hider and Full Screen Utilizer
 
 This mod allows you to completely hide the Windows 11 taskbar and utilize the full screen. It's reversible, so you can easily show the taskbar again when needed.
@@ -11,6 +10,10 @@ This mod allows you to completely hide the Windows 11 taskbar and utilize the fu
 4. Even with the taskbar hidden, you can still access the Start menu by pressing the Win key on your keyboard.
 
 **Note**: If you don't set the taskbar to auto-hide before enabling the mod, you may not get the full screen utilization as intended.
+=======
+# windows11-taskbar-hider
+ Custom mod for Windhawk that hides the Windows 11 taskbar and allows full screen utilization.
+>>>>>>> 7917f82 (Initial commit)
 =======
 # windows11-taskbar-hider
  Custom mod for Windhawk that hides the Windows 11 taskbar and allows full screen utilization.
