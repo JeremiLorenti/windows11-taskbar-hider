@@ -4,7 +4,7 @@
 // @description     Hides the Windows 11 taskbar and allows full screen utilization
 // @version         1.0
 // @author          Jeremi Lorenti
-// @github          https://github.com/JeremiLorenti/windows11-taskbar-hider
+// @github          https://github.com/jeremilorenti/windows11-taskbar-hider
 // @homepage        https://jeremilorenti.com
 // @include         explorer.exe
 // @architecture    x86-64
