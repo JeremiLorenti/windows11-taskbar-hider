@@ -25,6 +25,8 @@ This mod allows you to completely hide the Windows 11 taskbar and utilize the fu
 
 Note: If you don't set the taskbar to auto-hide before enabling the mod, you may not get the full screen utilization as intended.
 */
+// ==/WindhawkModReadme==
+
 
 // ==WindhawkModSettings==
 /*
